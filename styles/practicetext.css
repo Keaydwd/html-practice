@@ -1,0 +1,44 @@
+.Tahoma {
+    font-family: Tahoma;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 5px;
+}
+.Arial {
+    font-family: Tahoma;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.Arial-bottom {
+    font-family: Arial;
+    font-size: 18px;
+    font-style: italic;
+    margin-top: 3px;
+    color: red ;
+}
+.Sub-text {
+    font-family: Arial;
+    font-size: 16px;
+    margin-top: 3px;
+    color: grey;
+}
+.Main-content {
+    font-family: Verdana;
+    font-size: 16px;
+    width: 300px;
+}
+.Button-start {
+    font-family: Verdana;
+    background-color: green;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+.Head {
+    font-family: Tahoma;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
